@@ -1,0 +1,4 @@
+./model/nyu_40*
+./provided_data/*
+./testdata/*
+./traindata/*
